@@ -41,3 +41,4 @@ for m in range(len(text_final)):
     print(text_final1)
 
 'x' in text3[0] 
+print(sum)
